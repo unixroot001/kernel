@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RauanAlikulov
 - 👀 I’m interested ... informatiqa and programming
 - 🌱 I’m currently learning ... Algorithms and Data Structure
-[ unix-shell, python, html, js, xml, java, sql ]> tcp/ip >> C++
+ [ unix-shell, python, html, js, xml, java, sql ]> tcp/ip >> C++
 [ linux, android, chromeOS ]
 
 <!---
