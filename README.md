@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @RauanAlikulov
 - 👀 I’m interested ... informatiqa and programming
-- 🌱 I’m currently learning ... unix-shell, python, html, javascript >> TCP/IP
-Algorithms and Data Structure
+- 🌱 I’m currently learning ... Algorithms and Data Structure
+[ unix-shell, python, html, js, xml, java, sql ]> tcp/ip >> C++
+[ linux, android, chromeOS ]
 
 <!---
 RauanAlikulov/RauanAlikulov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
