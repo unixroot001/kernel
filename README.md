@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rauan Alikulov student informatiq and freelancer
+- 👋 Hi, I’m Rauan Alikulov student informatiq, freelancer
 - 👀 I’m interested ... informatiqa and programming
 - 🌱 I’m currently learning ... Algorithms and Data Structure
 [ unix-shell, python, html, js, xml, java, sql ] >> tcp/ip >> C++
