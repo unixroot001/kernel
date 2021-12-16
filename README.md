@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Rauan Alikulov student informatiq, freelancer
 - 👀 I’m interested ... informatiqa and programming
 - 🌱 I’m currently learning ... Algorithms and Data Structure
-[ unix-shell, python, html, js, xml, java, sql ] >> tcp/ip >> C++
-[ linux, android, windows, chromeOS, routerOS ]
+[ unix-shell, python, html, js, xml, java, sql ] >> tcp/ip >> C++ and unix os
 
 <!---
 RauanAlikulov/RauanAlikulov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
