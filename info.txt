@@ -2673,7 +2673,7 @@ https://tools.kali.org
 https://www.specialist.ru/ #Программа курса IT
 [architecture >> Software and system|network]
 en.wikipedia: [computer, mobile, network security]
-[social enginering, root, kali linux tools]
+[social enginering, reverse enginering, pentesting, root, kali linux tools]
 Google dorking — метод используемый в Google Search
 ____________________________________________________
 
