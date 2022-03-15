@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rauan Alikulov student informatiq, freelancer
+- 👋 Hi, I’m Rauan Ali student informatiq, freelancer
 - 🎯 I’m currently learning ... Algorithms and Data Structure
 - >_ Methods information processing in unix-shell, python, js, java> tcp/ip
 <!---
